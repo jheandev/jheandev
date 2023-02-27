@@ -1,4 +1,5 @@
 ### Olá! sou Jhean carllos 👋
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando React 😄
+- 🔭 Trabalho com Front-end
+- 🌱 Skills 😄
+- ## HTML,CSS,JavaScript,ReactJS,Bootstrap.
