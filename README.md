@@ -2,4 +2,4 @@
 
 - 🔭 Trabalho com Front-end
 - 🌱 Skills 😄
--  HTML, CSS, JavaScript, ReactJs, Bootstrap.
+-  HTML, CSS, JavaScript,TypeScript, ReactJs, Bootstrap.
